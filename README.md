@@ -1,5 +1,5 @@
-# EE232E
-This repository contains projects from Large Scale Social and Complex Networks course that I took at UCLA. 
+# Large Scale Social and Complex Networks
+This repository contains projects as part of EE232 course at UCLA.
 
 Project1 - Random Graphs and Random Walks  
 Project2 - Social Network Mining  
